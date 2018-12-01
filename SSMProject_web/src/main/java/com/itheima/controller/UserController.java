@@ -84,4 +84,5 @@ public class UserController {
         userService.updateUserRole(userId,ids);
         return "redirect:/User/findAllUser";
     }
+    /*测试一个方法*/
 }
